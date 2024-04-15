@@ -5,9 +5,6 @@
    4 cp /home/user/start/1.txt /opt/task/start.txt
    5 ls -la / | tail -4 >> /opt/task/start.txt
    6 cp -r /opt/task /tmp/testnew
-   7 /root/readme.txt >> /opt/task/start.txt
-   8 root/readme.txt >> /opt/task/start.txt
-   9 cat /root/readme.txt >> /opt/task/start.txt
-  10 cat /root/readme.txt >> /tmp/testnew/task/start.txt
-  11 rm -r /opt/task
-  12 history > history.txt
+   7 cat /root/readme.txt >> /tmp/testnew/task/start.txt
+   8 rm -r /opt/task
+   9 history > history.txt
